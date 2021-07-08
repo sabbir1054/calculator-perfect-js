@@ -1,0 +1,22 @@
+#calculator {
+  background-color: tomato;
+}
+#show-output {
+  border: 2px solid green;
+  text-align: end;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+#show-output p{
+  padding: 15px;
+}
+#num-pad {
+  text-align: center;
+  padding-bottom: 20px;
+}
+#num-pad button {
+  font-size: 20px;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
